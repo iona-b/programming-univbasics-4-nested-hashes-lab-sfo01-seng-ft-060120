@@ -116,7 +116,7 @@ def changing_alan
       }
     }
     
-  [:alan_kay] = "GUI"
+  programmer_hash[:alan_kay] = "GUI"
 
 end
 
