@@ -145,7 +145,7 @@ def adding_to_dennis
       }
     }
 
-programmer_hash[:alan_kay][:languages].push("Assembly")
+programmer_hash[:alan_kay][:languages] = "Assembly"
 
 programmer_hash
 
