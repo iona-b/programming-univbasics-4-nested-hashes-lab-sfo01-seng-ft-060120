@@ -89,7 +89,6 @@ def adding_matz
         :languages => ["C"]
       }
  		}
-shipping_manifest["top hat"] = 1
 
   programmer_hash[:yukihiro_matsumoto] = {
         :known_for => "Ruby",
