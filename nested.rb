@@ -73,10 +73,6 @@ def adding_matz
 # }
 # return the entire updated hash
 
-  programmer_hash[:yukihiro_matsumoto] = {
-          :known_for => "Ruby",
-          :languages => ["LISP", "C"]
-        }
 
 	programmer_hash = 
  		{
@@ -91,7 +87,11 @@ def adding_matz
       :dennis_ritchie => {
         :known_for => "Unix",
         :languages => ["C"]
-      }
+      },
+      :yukihiro_matsumoto] => {
+        :known_for => "Ruby",
+        :languages => ["LISP", "C"]
+        }
     }
 
 return programmer_hash
