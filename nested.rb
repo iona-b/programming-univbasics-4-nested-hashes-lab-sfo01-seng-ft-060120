@@ -91,7 +91,7 @@ def adding_matz
  		}
 shipping_manifest["top hat"] = 1
 
-  programmer_hash[:yukihiro_matsumoto = {
+  programmer_hash[:yukihiro_matsumoto] = {
         :known_for => "Ruby",
         :languages => ["LISP", "C"]
         }
