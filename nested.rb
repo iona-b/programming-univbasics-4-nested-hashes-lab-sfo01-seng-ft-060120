@@ -73,9 +73,7 @@ def adding_matz
 # }
 # return the entire updated hash
 
-programmer_hash = 
- 		{
-      :grace_hopper => {
+programmer_hash[:yukihiro_matsumoto => {
         :known_for => "COBOL",
         :languages => ["COBOL", "FORTRAN"]
       }
