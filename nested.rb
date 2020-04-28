@@ -79,7 +79,7 @@ programmer_hash[:yukihiro_matsumoto => {
       }
 ]
 
-programmer_hash
+return programmer_hash
 
 	programmer_hash = 
  		{
